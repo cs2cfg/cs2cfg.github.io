@@ -51,6 +51,6 @@ start index.html # Windows
 MIT © 2026 Конфиген
 
 ## 📞 Контакты
-- **App**: cs2cfg.github.io
-- **Email**: cs2cfg@mail.ru
-- **GitHub**: github.com/cs2cfg/cs2cfg.github.io
+- **Приложение**: https://cs2cfg.github.io
+- **Эл. почта**: cs2cfg@mail.ru
+- **GitHub**: https://github.com/cs2cfg/cs2cfg.github.io
