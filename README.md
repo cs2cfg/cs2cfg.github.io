@@ -51,6 +51,6 @@ start index.html # Windows
 MIT © 2026 Конфиген
 
 ## 📞 Контакты
-- **Email**: support@configen.dev
-- **Telegram**: @configen_dev
-- **GitHub**: github.com/configen/configen
+- **App**: cs2cfg.github.io
+- **Email**: cs2cfg@mail.ru
+- **GitHub**: github.com/cs2cfg/cs2cfg.github.io
